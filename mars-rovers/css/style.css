@@ -1,0 +1,67 @@
+body{
+    background-image: url("/mars-rovers/photos/Mars2.jpg")
+}
+
+h1{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:cornflowerblue
+}
+
+h2{
+    font-family:Oswald, 'Montserrat', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:blue;
+    text-align:center;
+}
+
+h3{
+    font-family:Roboto,Nunito,Rubic,Ubuntu, sans-serif;
+    color:lightcoral;
+}
+
+p{
+   font-family:'Lato', arial;
+   color:white;
+}
+
+img{
+display: block;
+margin-left:auto;
+margin-right:auto;
+width:25%;
+height:25%;
+border-radius:25%;
+border:solid;
+}
+
+.Logo{
+    border:none;
+}
+
+a:visited{
+color:darkblue;
+}
+
+a:link{
+color:cornflowerblue;
+}
+
+a:hover{
+    color:blue;
+}
+
+li{
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+footer{
+background-color:gainsboro;
+}
+
+div{
+    border-style:solid hidden solid hidden;
+    background-color:lightblue;
+}
+
+footer p{
+    color:red;
+}
